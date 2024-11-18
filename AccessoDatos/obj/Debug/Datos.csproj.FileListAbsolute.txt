@@ -1,0 +1,6 @@
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\AccessoDatos\bin\Debug\AccessoDatos.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\AccessoDatos\bin\Debug\AccessoDatos.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\AccessoDatos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\AccessoDatos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\AccessoDatos\obj\Debug\AccessoDatos.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\AccessoDatos\obj\Debug\AccessoDatos.pdb

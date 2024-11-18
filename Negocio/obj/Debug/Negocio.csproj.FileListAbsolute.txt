@@ -1,0 +1,20 @@
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\bin\Debug\Dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\bin\Debug\AccessoDatos.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\bin\Debug\Dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\bin\Debug\AccessoDatos.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\bin\Debug\Dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel-3\GestorDeProductos\Negocio\obj\Debug\Negocio.pdb
